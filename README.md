@@ -5,7 +5,7 @@ A guide to my projects and case studies.
 
 | Project | Area of Analysis | Description |
 | ------------- | ------------- | -------------|
-| [Bike Sales Dashboard](https://github.com/IrinaShafeeva/Portfolio/blob/main/bike_sales_dashboard.xlsx) | Data Cleaning, Interactive Visualization | I practiced data cleaning and creating dashboard on a dataset of 1000 owners of bikes.|
+| [Bike Sales Dashboard](https://https://github.com/IrinaShafeeva/bike_sales_dashboard/blob/main/README.md) | Data Cleaning, Interactive Visualization | I practiced data cleaning and creating dashboard on a dataset of 1000 owners of bikes.|
 
 ## R
 
