@@ -24,3 +24,9 @@ A guide to my projects and case studies.
 | Project | Area of Analysis | Description |
 | ------------- | ------------- | -------------|
 | [Covid-19 Dashboard](https://github.com/IrinaShafeeva/Covid19-Tableau-Dashboard) | Data Exploration | Exploration of Covid-19 data from 1 Jan 2020 to 3 June 2023 from [Our World In Data](https://ourworldindata.org/covid-deaths) and visualizing it in Tableau Public. |
+
+## Python
+
+| Project | Area of Analysis | Description |
+| ------------- | ------------- | -------------|
+| [EDA](https://github.com/IrinaShafeeva/Portfolio/blob/main/Exploratory%20Data%20Analysis.ipynb) | Data Exploration | Exploration of world population data using libraries: pandas, seaborn, matplotlib.|
